@@ -12,8 +12,15 @@
 - 🎓 Intermediate Student | Diploma in Software Engineering (Aptech)
 - 🌟 Passionate about clean UI/UX and modern responsive designs
 - 💡 I love solving logical problems & building creative websites
-- 📚 Currently learning: **PHP, MySQL, Bootstrap, React**
+- 📚 Currently working on: **Laravel, PHP, MySQL, Bootstrap, React**
 - 🎯 My Goal: Become an independent developer and support both humans & animals
+
+---
+
+### 🚀 Projects
+
+- **[Laravel Blog](https://github.com/username/laravel-blog)**: A blog application built with Laravel and MySQL. Features include user authentication, CRUD operations, and post categorization.
+- **[Inventory Management System](https://github.com/username/inventory-management)**: A product inventory system built using PHP and Laravel, allowing users to manage products, prices, and stock levels.
 
 ---
 
@@ -29,6 +36,9 @@
   <a href="mailto:waniak595@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/wania663" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -41,6 +51,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -69,5 +80,5 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wania663&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wania663&layout=compact&theme=tokyonight&langs_count=6" />
 </p>

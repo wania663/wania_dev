@@ -17,21 +17,14 @@
 
 ---
 
-### 🚀 Projects
-
-- **[Laravel Blog](https://github.com/username/laravel-blog)**: A blog application built with Laravel and MySQL. Features include user authentication, CRUD operations, and post categorization.
-- **[Inventory Management System](https://github.com/username/inventory-management)**: A product inventory system built using PHP and Laravel, allowing users to manage products, prices, and stock levels.
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:waniak595@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />

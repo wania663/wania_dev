@@ -20,10 +20,10 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/in/wania-63847334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/waniakhan_08/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:waniak595@gmail" target="_blank">
